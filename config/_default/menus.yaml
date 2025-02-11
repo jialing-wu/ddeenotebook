@@ -5,16 +5,16 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Documentation
+  - name: Application&Study
     url: docs/
     weight: 20
-  - name: Blog
+  - name: Engineering Education
     url: blog/
     weight: 30
-  - name: Showcase
+  - name: Statistics
     url: showcase/
     weight: 40
-  - name: Community
+  - name: CSS
     url: community/
     weight: 50
 
