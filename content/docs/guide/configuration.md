@@ -12,6 +12,7 @@ The IEPM program requires 36 credits to graduate:
 - Internship experience is required<br>
 - Most students graduate in two years. One student in my cohort completed the program in 1.5 years.<br>
 <br>
+
 The most standard graduation plan follows this structure:
 <br>
 - First year (Fall & Spring semesters): 3 courses per semester, 9 credits per semester, total 18 credits<br>
@@ -22,7 +23,7 @@ Total: 36 credits over two years<br>
 
 ## Example ①: Planning for Employment After Graduation
 
-For students who aim to work after graduation, I suggest making full use of the practicum (independent study/internship course). This course can be taken for 0, 3, or 6 credits, and allows students to apply for CPT during summer and in the second year.
+For students who aim to work after graduation, I suggest making full use of the practicum (independent study/internship course). This course can be taken for 0, 3, or 6 credits, and allows students to apply for CPT during summer and in the second year.<br>
 <br>
 Suggested timeline:
 <br>
@@ -50,8 +51,8 @@ IEPM allows master’s students to take PhD-level courses—I enrolled in a rese
 - Second year (Fall semester): Took 3 easy courses to free up time for PhD applications. Final semester: Took 2 courses.<br>
 <br>
 Reflection: Looking back, this timeline had a low margin for error. If I were to do it again, I would start reaching out to professors for RA positions earlier (first or second semester). I would take more advanced courses or explore electives from other departments.<br>
-
-*Other Course Planning Options*
+<br>
+*Other Course Planning Options*<br>
 1️⃣ Study abroad at Columbia University for one semester (3 courses), which can also fulfill the internship requirement.<br>
 2️⃣ Cross-school program in the Business School, including an international study trip during spring break.<br>
 3️⃣ Combine electives to earn a Global Health Certificate or complete two degrees in three years (M.Ed. + MPH).<br>
