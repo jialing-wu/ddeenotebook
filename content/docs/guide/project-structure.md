@@ -18,7 +18,7 @@ The International Education Policy and Management (IEPM) program became a STEM-d
 3️⃣ The four core courses can be substituted with PhD-level courses.<br>
 4️⃣ Students can earn a Global Health Certificate.<br>
 5️⃣ There is an option to study at Columbia University for one semester as an exchange student.<br>
-<br><br>
+<br>
 In my cohort of 2022, there were about 15-20 students from 5-6 different countries, with around 7 Chinese students (the next cohort had about 4-5). The ratio is such that you can always find people to gather with for Chinese meals, but class group work is well-mixed. Overall, Vanderbilt has a relatively small international student population.
 <br><br>
 Regarding student backgrounds, the previous cohort included graduates from Princeton and Peking University, while my cohort had students from Yale and Harvard, and past years reportedly had Tsinghua graduates as well. Although it may seem like everyone on social media has an Ivy background, our cohort consists of hardworking, ambitious individuals pushing toward their own limits! Since there are many international students, the program is highly inclusive.
