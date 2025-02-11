@@ -11,8 +11,7 @@ sections:
   - block: hero
     content:
       title: Data-Driven Engineering Education (DDEE)!
-      text: Hi, I’m Jialing Wu. I am currently a PhD student in Engineering Education at The Ohio State University. I earned my master’s degree from Vanderbilt University.<br>
-      <br>On this website, I will share my experiences studying at Vanderbilt, my PhD application journey, and my study notes in the field of engineering education (Statistics, Computer Science, Computational Social Science). I hope this can help others on a similar path. For more personal information about me, please visit my personal website. 🐱 
+      text: Hi, I’m Jialing Wu. I am currently a PhD student in Engineering Education at The Ohio State University. I earned my master’s degree from Vanderbilt University.<br><br>On this website, I will share my experiences studying at Vanderbilt, my PhD application journey, and my study notes in the field of engineering education (Statistics, Computer Science, Computational Social Science). I hope this can help others on a similar path. For more personal information about me, please visit my personal website. 🐱 
       primary_action:
         text: My Personal Website
         url: https://jialingwu.netlify.app/
