@@ -10,6 +10,6 @@ The second section shares my experience applying to PhD programs in Engineering 
 Since I am from China, some of the information will be provided based on my background. For other international students, this is for reference only.
 
 {{< cards >}}
-  {{< card url="../guide/project-structure" title="Learning at Vanderbilt" icon="document-duplicate" >}}
+  {{< card url="../guide" title="Learning at Vanderbilt" icon="document-duplicate" >}}
   {{< card url="../guide/configuration" title="PhD Application" icon="adjustments-vertical" >}}
 {{< /cards >}}
