@@ -57,6 +57,6 @@ Reflection: Looking back, this timeline had a low margin for error. If I were to
 2️⃣ Cross-school program in the Business School, including an international study trip during spring break.<br>
 3️⃣ Combine electives to earn a Global Health Certificate or complete two degrees in three years (M.Ed. + MPH).<br>
 4️⃣ Starting Fall 2024, Peabody College will offer four new graduate certificates—keep an eye on updates.<br>
-
+<br>
 Summary:<br>
 💡 Be bold in customizing your study path to align with your goals!
