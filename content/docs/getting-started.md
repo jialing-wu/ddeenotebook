@@ -8,7 +8,6 @@ The first section introduces my study experience in the M.Ed. in International E
 <br>
 The second section shares my experience applying to PhD programs in Engineering Education, covering topics such as program searches, finding summer research opportunities, and the process from cold emailing to interviews.
 
-{{% /steps %}}
 
 {{< cards >}}
   {{< card url="../guide/project-structure" title="Learning at Vanderbilt" icon="document-duplicate" >}}
