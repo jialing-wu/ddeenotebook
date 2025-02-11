@@ -18,7 +18,7 @@ main:
     #url: community/
     #weight: 50
 
-sidebar:
+#sidebar:
   - identifier: more
     name: Still need help?
     params:
