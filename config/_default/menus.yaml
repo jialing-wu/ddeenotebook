@@ -8,15 +8,15 @@ main:
   - name: Application&Study
     url: docs/
     weight: 20
-  - name: Engineering Education
-    url: blog/
-    weight: 30
-  - name: Statistics
-    url: showcase/
-    weight: 40
-  - name: CSS
-    url: community/
-    weight: 50
+  #- name: Engineering Education
+    #url: blog/
+    #weight: 30
+  #- name: Statistics
+    #url: showcase/
+    #weight: 40
+  #- name: CSS
+    #url: community/
+    #weight: 50
 
 sidebar:
   - identifier: more
