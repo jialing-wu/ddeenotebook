@@ -1,7 +1,6 @@
 ---
+linkTitle: University
 title: Overview
-date: 2024-02-17
-weight: 1
 ---
 
 The first section introduces my study experience in the M.Ed. in International Education Policy and Management at Vanderbilt University, Peabody College, including my personal experience in the program, a two-year study plan recommendation, and the career paths of past students. It also includes some general study tips.
