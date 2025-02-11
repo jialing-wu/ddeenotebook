@@ -15,6 +15,7 @@ Since 2006, IEPM alumni have been recording their contact information and job de
 - Government agencies<br>
 - Education companies<br>
 - Roles vary across academic, research, and administrative positions.<br>
+
 3️⃣ The other half stayed abroad:<br>
 - Academic path: Some continued to pursue PhDs or second master’s degrees.<br>
 - Employment path: Jobs in data analysis, academic research, and administration, mainly in U.S. universities or education companies.<br>
