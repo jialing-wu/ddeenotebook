@@ -33,7 +33,8 @@ You can enroll in the practicum course for 0, 3, or 6 credits (note: taking cred
 <br>
 By graduation, you will have around 1.5 years of internship experience (in reality, due to visa restrictions, it may be slightly less—please check official resources for precise details).
 <br>
-Key points:
+<br>
+*Key points:*
 <br>
 The practicum course has no coursework—it is primarily for securing CPT eligibility.<br>
 Pros: Helps accumulate work experience.<br>
