@@ -1,59 +1,33 @@
 ---
-title: Project Structure
+title: My feeling of IEPM
 weight: 1
 ---
 
-## Folder Structure
+## How is Vanderbilt's ranking and reputation?
 
-There are **4 main folders for Hugo-based sites**:
+I previously worked in recruitment in China. In the education industry in China, Vanderbilt is recognized as a good school—sometimes even earning a "wow," though not as often as Ivy League schools. In other industries, Vanderbilt graduates are not as commonly seen, and whether the school's reputation provides an advantage depends on the HR's perception. The more internationally oriented a company is, the greater the advantage.
+<br><br>
+Internationally, Vanderbilt is a "wow" school, especially Peabody College—I’ve heard this from multiple local students. When I attended conferences and introduced myself as being from Peabody, people were generally willing to engage in conversation.
 
-- `content/` for your Markdown-formatted content files (homepage, etc.)
-  - `_index.md` the homepage (**Hugo requires that the homepage and archive pages have an underscore prefix**)
-- `assets/`
-  - `media/` for your media files (images, videos)
-    - `icons/custom/` upload any custom SVG icons you want to use
-- `config/_default/` for your site configuration files
-  - `hugo.yaml` to configure Hugo (site title, URL, Hugo options, setup per-folder page features)
-  - `module.yaml` to install or uninstall Hugo themes and plugins
-  - `params.yaml` to configure Hugo Blox options (SEO, analytics, site features)
-  - `menus.yaml` to configure your menu links (if the menu is enabled in `params.yaml`)
-  - `languages.yaml` to configure your site's language or to set language-specific options in a multilingual site
-- `static/uploads/` for any files you want visitors to download, such as a PDF
-- `go.mod` sets the version of Hugo themes/plugins which your site uses
+## How many students are in the IEPM program? Are there many Chinese students?
 
+The International Education Policy and Management (IEPM) program became a STEM-designated program in 2022, allowing graduates to qualify for 3 years of OPT (including the STEM extension).
 
-## Hugo File Naming Convention
+I personally think IEPM is a program where you can graduate happily, but it also offers a high ceiling for academic and professional growth. In general, the program is very flexible:
 
-Hugo gives us two options to name standard page files: as `TITLE/index.md` or `TITLE.md` where `TITLE` is your page name.
+1️⃣ Half of the elective courses can be taken across different disciplines and schools (e.g., study-abroad opportunities from the business school).
+2️⃣ Students can apply for independent study courses to do internships using CPT.
+3️⃣ The four core courses can be substituted with PhD-level courses.
+4️⃣ Students can earn a Global Health Certificate.
+5️⃣ There is an option to study at Columbia University for one semester as an exchange student.
 
-The page name should be lowercase and using hyphens (`-`) instead of spaces.
+In my cohort of 2022, there were about 15-20 students from 5-6 different countries, with around 7 Chinese students (the next cohort had about 4-5). The ratio is such that you can always find people to gather with for Chinese meals, but class group work is well-mixed. Overall, Vanderbilt has a relatively small international student population.
 
-Both approaches result in the same output, so you can choose your preferred approach to naming and organizing files. A benefit to the folder-based approach is that all your page's files (such as images) are self-contained within the page's folder, so it's more portable if you wish to share the original Markdown page with someone.
+Regarding student backgrounds, the previous cohort included graduates from Princeton and Peking University, while my cohort had students from Yale and Harvard, and past years reportedly had Tsinghua graduates as well. Although it may seem like everyone on social media has an Ivy background, our cohort consists of hardworking, ambitious individuals pushing toward their own limits! Since there are many international students, the program is highly inclusive.
 
-The homepage is a special case as **Hugo requires the homepage and listing pages to be named** `_index.md`.
+## How is Vanderbilt's ranking and reputation?
 
-## Docs Navigation
+I previously worked in recruitment in China. In the education industry in China, Vanderbilt is recognized as a good school—sometimes even earning a "wow," though not as often as Ivy League schools. In other industries, Vanderbilt graduates are not as commonly seen, and whether the school's reputation provides an advantage depends on the HR's perception. The more internationally oriented a company is, the greater the advantage.
+<br><br>
+Internationally, Vanderbilt is a "wow" school, especially Peabody College—I’ve heard this from multiple local students. When I attended conferences and introduced myself as being from Peabody, people were generally willing to engage in conversation.
 
-The docs navigation is automatically generated based on the content in the `docs/` folder and is sorted alphabetically.
-
-The order of pages can be changed by adding the `weight` parameter in the front matter of your Markdown files.
-
-In the example below, the `example.md` page will appear before the `test.md` page as it has a lower `weight`:
-
-Page `example.md`:
-
-```yaml
----
-title: My Example
-weight: 1
----
-```
-
-Page `test.md`:
-
-```yaml
----
-title: My Test
-weight: 2
----
-```
