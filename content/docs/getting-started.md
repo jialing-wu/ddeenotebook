@@ -1,36 +1,16 @@
 ---
-title: Getting Started
+title: Overview
 date: 2024-02-17
 weight: 1
 ---
 
-## Quick Start from Template
+The first section introduces my study experience in the M.Ed. in International Education Policy and Management at Vanderbilt University, Peabody College, including my personal experience in the program, a two-year study plan recommendation, and the career paths of past students. It also includes some general study tips.
 
-{{% steps %}}
-
-### Initialize a new site
-
-[Click to copy the template on GitHub](https://github.com/new?template_name=theme-documentation&template_owner=HugoBlox)
-
-### Configure your new site
-
-[Configure your site name, description, and menu.](https://docs.hugoblox.com/tutorial/blog/)
-
-### Add your content
-
-[Edit the homepage and add your documentation pages.](https://docs.hugoblox.com/tutorial/blog/)
-
-### Publish your site
-
-[Easily publish your site for free with GitHub Pages](https://docs.hugoblox.com/tutorial/blog/)
+The second section shares my experience applying to PhD programs in Engineering Education, covering topics such as program searches, finding summer research opportunities, and the process from cold emailing to interviews.
 
 {{% /steps %}}
 
-## Next
-
-Let's customize your new site:
-
 {{< cards >}}
-  {{< card url="../guide/project-structure" title="Project Structure" icon="document-duplicate" >}}
-  {{< card url="../guide/configuration" title="Configuration" icon="adjustments-vertical" >}}
+  {{< card url="../guide/project-structure" title="Learning at Vanderbilt" icon="document-duplicate" >}}
+  {{< card url="../guide/configuration" title="PhD Application" icon="adjustments-vertical" >}}
 {{< /cards >}}
