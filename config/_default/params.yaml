@@ -5,9 +5,10 @@
 
 # Appearance
 appearance:
-  mode: light
-  color: blue
-
+  theme_night: my_theme
+  font: custom_font
+  font_size: M
+  
 # SEO
 marketing:
   seo:
