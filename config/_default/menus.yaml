@@ -5,7 +5,7 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Application&Study
+  - name: University
     url: docs/
     weight: 20
   #- name: Engineering Education
