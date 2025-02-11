@@ -5,7 +5,7 @@ weight: 1
 ---
 
 The first section introduces my study experience in the M.Ed. in International Education Policy and Management at Vanderbilt University, Peabody College, including my personal experience in the program, a two-year study plan recommendation, and the career paths of past students. It also includes some general study tips.
-
+<br>
 The second section shares my experience applying to PhD programs in Engineering Education, covering topics such as program searches, finding summer research opportunities, and the process from cold emailing to interviews.
 
 {{% /steps %}}
